@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.pink{
+
+  color: hotpink;
+}
+
+.green{
+  color: lightseagreen;
+}
+
+.yellow{
+  color: rgb(230, 245, 94);
+}
+
+.gray{
+
+  color: lightslategray
+}
+
+.orange{
+  color: rgb(238, 120, 52);
+}
